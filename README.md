@@ -1,4 +1,6 @@
 # desa_d_hydrogel-widefield-ORI
+### description of code and data for "Optical redox imaging to screen synthetic hydrogels for stem cell-derived cardiomyocyte differentiation and maturation" by DE Desa, MJ Amitrano, WL Murphy, MC Skala.
+
 * To reproduce scatter plots/heatmaps, the included Excel files can be used ('data' folder).
 * To reproduce histograms, seaborn = 0.12.0 (histoplot) is required.
 * Raw images can be provided upon request:
