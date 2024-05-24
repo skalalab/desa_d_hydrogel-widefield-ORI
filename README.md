@@ -1,5 +1,5 @@
 # desa_d_hydrogel-widefield-ORI
-### description of code and data for "Optical redox imaging to screen synthetic hydrogels for stem cell-derived cardiomyocyte differentiation and maturation" by DE Desa, MJ Amitrano, WL Murphy, MC Skala.
+### description of code and data for "Optical redox imaging to screen synthetic hydrogels for stem cell-derived cardiomyocyte differentiation and maturation" by DE Desa, MJ Amitrano, WL Murphy, MC Skala (https://doi.org/10.1117/1.BIOS.1.1.015002).
 
 * To reproduce plots, the included Excel files can be used ('data' folder).
 * Raw images can be provided upon request:
